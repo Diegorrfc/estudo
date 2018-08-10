@@ -8,4 +8,3 @@ c:\users\d.felix.celestino\Tigre\Tigre\Tigre\obj\Debug\netcoreapp2.0\Tigre.Assem
 c:\users\d.felix.celestino\Tigre\Tigre\Tigre\obj\Debug\netcoreapp2.0\Tigre.AssemblyInfo.cs
 c:\users\d.felix.celestino\Tigre\Tigre\Tigre\obj\Debug\netcoreapp2.0\Tigre.dll
 c:\users\d.felix.celestino\Tigre\Tigre\Tigre\obj\Debug\netcoreapp2.0\Tigre.pdb
-C:\Users\d.felix.celestino\Tigre\Tigre\Tigre\obj\Debug\netcoreapp2.0\Tigre.csprojResolveAssemblyReference.cache

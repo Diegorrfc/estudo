@@ -1,7 +1,7 @@
 ﻿
 using System;
 using System.Collections.Generic;
-//using System.Data.Entity;
+
 using Microsoft.EntityFrameworkCore;
 using System.Linq;
 using Microsoft.Extensions.Configuration;
@@ -22,7 +22,8 @@ namespace Tigre.Repository
             Context = new Context(optionsBuilder.Options);
         }
         public IEnumerable<T> GetAllEntity()
-        {
+        {          
+           
             return Context.Set<T>();
         }
 

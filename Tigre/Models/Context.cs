@@ -8,7 +8,7 @@ namespace Tigre.Models{
     {
             public Context(DbContextOptions<Context> options) : base(options)
             { }
-          
+        
             public DbSet<Bot> Bot { get; set; }
             public DbSet<User> Usuarios { get; set; }
 

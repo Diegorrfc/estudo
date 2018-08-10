@@ -1,0 +1,11 @@
+c:\users\d.felix.celestino\Tigre\Tigre\Tigre\bin\Debug\netcoreapp2.0\Tigre.deps.json
+c:\users\d.felix.celestino\Tigre\Tigre\Tigre\bin\Debug\netcoreapp2.0\Tigre.runtimeconfig.json
+c:\users\d.felix.celestino\Tigre\Tigre\Tigre\bin\Debug\netcoreapp2.0\Tigre.runtimeconfig.dev.json
+c:\users\d.felix.celestino\Tigre\Tigre\Tigre\bin\Debug\netcoreapp2.0\Tigre.dll
+c:\users\d.felix.celestino\Tigre\Tigre\Tigre\bin\Debug\netcoreapp2.0\Tigre.pdb
+c:\users\d.felix.celestino\Tigre\Tigre\Tigre\obj\Debug\netcoreapp2.0\Tigre.csproj.CoreCompileInputs.cache
+c:\users\d.felix.celestino\Tigre\Tigre\Tigre\obj\Debug\netcoreapp2.0\Tigre.AssemblyInfoInputs.cache
+c:\users\d.felix.celestino\Tigre\Tigre\Tigre\obj\Debug\netcoreapp2.0\Tigre.AssemblyInfo.cs
+c:\users\d.felix.celestino\Tigre\Tigre\Tigre\obj\Debug\netcoreapp2.0\Tigre.dll
+c:\users\d.felix.celestino\Tigre\Tigre\Tigre\obj\Debug\netcoreapp2.0\Tigre.pdb
+C:\Users\d.felix.celestino\Tigre\Tigre\Tigre\obj\Debug\netcoreapp2.0\Tigre.csprojResolveAssemblyReference.cache
